@@ -1,0 +1,23 @@
+{
+  "name": "domaintally",
+  "version": "0.0.4",
+  "description": "Javascript wrapper for Domaintally.com API fetch domain, ranking and whois infomation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/domaintally/domaintally-node"
+  },
+  "keywords": [
+    "domain",
+    "whois",
+    "metrics",
+    "seo",
+    "search engine optimization",
+    "website"
+  ],
+  "author": "DomainTally.com <info@domaintally.com>",
+  "license": "BSD"
+}
