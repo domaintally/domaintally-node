@@ -7,7 +7,7 @@ Wrapper for [DomainTally](https://www.domaintally.com/page/access-the-metricsbot
 # Usage
 
 ```javascript
-var key = '....';
+var key = '....'; //Get your api from www.domaintally.com 
 client = require('domaintally')({ key: key });
 
 client.domain('google.com', function (res) {
